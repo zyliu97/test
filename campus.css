@@ -1,0 +1,56 @@
+#nav {
+    background-color: #003266;
+}
+.title {
+    font-size:30px;
+    color:#003266;
+}
+.content {
+    background-color: #dcdcdc;
+}
+#localtime{
+    padding-top:10px;
+}
+.panel a:link {
+    color: black;
+    text-decoration: none;
+}
+.panel a:visited {
+    color: black;
+    text-decoration: none;
+}
+.panel a:hover {
+    color: green;
+    text-decoration: none;
+}
+ul a:link {
+    color: #fffaf0;
+    text-decoration: none;
+}
+ul a:visited {
+    color: #fffaf0;
+    text-decoration: none;
+}
+ul a:hover {
+    color: green;
+    text-decoration: none;
+}
+.list {
+    list-style-type: none;
+    color:#003266;
+    font-size:120%;
+
+}
+#list{
+    margin-right:90px;
+}
+footer {
+    background-color: #696969;
+    margin-top:-18px;
+}
+p {
+    color: white;
+    padding: 20px 0 20px 0;
+
+}
+
