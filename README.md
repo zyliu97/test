@@ -6,7 +6,7 @@
  
 -CSS: Describes the style of HTML documents
  
--HTML: The web framework used
+-HTML: Creates the web page framework
   
 # Platform
 -Windows
